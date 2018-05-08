@@ -8,7 +8,7 @@ This only happens when `@CompileStatic` is used.
 This does not apply to method calls.
 For Groovy 2.3.11 this only affects read operations.
 
-Only the versions 2.5.0-rc-1, 2.4.15, 2.3.11 have been tested yet.
+The versions 3.0.0-alpha-2, 2.6.0-alpha-3, 2.5.0-rc-1, 2.4.15, 2.3.11 have been tested.
 I will add tests for newer versions, but this requires a different
 test framework than Spock.
 
