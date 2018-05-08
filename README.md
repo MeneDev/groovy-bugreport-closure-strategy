@@ -1,6 +1,6 @@
 # groovy-bugreport-closure-strategy
 
-Small project demonstrating a Groovy irregularity.
+Small project demonstrating a Groovy irregularity. The bug report is in the [Apache Jira](https://issues.apache.org/jira/browse/GROOVY-8562).
 
 Closures resolve to owner property although `DELEGATE_FIRST`
 or `DELEGATE_ONLY` are set as `resolveStrategy`.
