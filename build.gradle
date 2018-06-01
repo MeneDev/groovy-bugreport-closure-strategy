@@ -1,6 +1,6 @@
 buildscript {
     ext {
-        groovyVersion = '3.0.0-alpha-2'
+        groovyVersion = '2.5.0'
     }
     repositories {
         mavenCentral()
